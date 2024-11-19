@@ -47,19 +47,19 @@ nav ul li a:hover {
 
 #home {
     height: 100vh;
-    background-color: #ffffffab;
+    background-color: hsla(0, 0%, 100%, 0.52);
 }
 #about {
     height: 100vh;
-    background-color: #ffffffde;
+    background-color: hsla(0, 0%, 100%, 0.52);
 }
 #services {
     height: 100vh;
-    background-color: #ffffffde;
+    background-color: hsla(0, 0%, 100%, 0.52);
 }
 #contact {
     height: 100vh;
-    background-color: #ffffffde;
+    background-color: hsla(0, 0%, 100%, 0.52);
 }
 section {
     padding: 2em;
@@ -88,7 +88,7 @@ main {
     }
 }
 
-nav-toggle {
+#nav-toggle {
     display: none;
     background: none;
     border: none;
